@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently enrolled as a Master's student at Hochschule Bonn-Rhein-Sieg with a solid background in Mechatronics Engineering. My experience in development has allowed me to develop excellent coding skills and keen attention to detail. I'm passionate about exploring new, advanced technologies and am always eager to learn. I pride myself as a team player who is able to collaborate and communicate effectively with a diverse range of professionals.
+I have a background in Mechatronics Engineering and several years of hands-on experience in software and systems development. Over time, I’ve built strong coding skills and developed a careful, detail-oriented approach to problem solving. I enjoy exploring new technologies and finding practical ways to apply them in real projects. I also value collaboration and clear communication, and I work well with teams from different technical and professional backgrounds.
 
 **🛠️ My Tech Stack**
 * **Infrastructure & DevOps:** Kubernetes, Docker (Compose & API), Traefik (Dynamic Routing), GitHub Actions, Render
